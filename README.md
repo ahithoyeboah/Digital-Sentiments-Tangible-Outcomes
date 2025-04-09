@@ -31,11 +31,14 @@ This sentiment analysis project using Python, NLTK VADER, TextBlob, and topic mo
 * Python
 * Jupyter Notebook
 * Excel
+* Bloomberg Terminal
+* Refinitiv
 
 #### Libraries Used
 * StatModels
 * Mathplotlib
 * Pandas
+* Numpy
 * NLTK
 * Wordcloud
 * Text Blob
